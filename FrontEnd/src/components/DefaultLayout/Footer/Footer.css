@@ -1,0 +1,14 @@
+.footer {
+    background-color: #2f466f;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+    position: relative;
+    bottom: 0;
+    margin-top: auto !important;
+}
+.name{
+    color: #f1862c;
+}
